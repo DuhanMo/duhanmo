@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DuhanMo</h1>
 <h3 align="center">I'll be a back-end developer.</h3>
 
-- 🌱 I’m currently learning **SpringFramework, RestAPI, Algorithm**
+- 🌱 I’m currently learning **SpringFramework, TDD, RestAPI, Algorithm**
 
 - 📫 How to reach me **moduhan95@gmail.com**
 
