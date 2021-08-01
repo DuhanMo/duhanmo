@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm DuhanMo</h1>
-<h2>Interest</h2>
+#align="center">Hi 👋, I'm DuhanMo
+##Interest
 *Spring
 *Algorithm
 *📫 How to reach me **moduhan95@gmail.com**
