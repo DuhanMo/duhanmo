@@ -9,8 +9,8 @@
 
 # Hi👋
 **Interest:**
-  - Spring
-  - Algorithm
+  - Java, Kotlin
+  - Spring Ecosystem
   - Backend
 
 ### moduhan95@gmail.com
