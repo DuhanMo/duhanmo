@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I’m 모두한! 👋
 
-<!--
-**DuhanMo/duhanmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Back-end Developer, mainly working with **Kotlin** and **Spring Boot**.
+I enjoy tackling new challenges, writing clean and efficient code, and exploring new technologies.
 
-Here are some ideas to get you started:
+**Tech Stack & Interests**
+- **Languages**: Kotlin, Java
+- **Frameworks**: Spring Boot
+- **Interests**: Clean Architecture, Clean code, Object-Oriented Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+**Contact**
+- **Email**: moduhan95@gmail.com
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/%EB%91%90%ED%95%9C-%EB%AA%A8-155089339/)
+- **Website**: [Tistory Blog](https://duhan-mo.tistory.com/)
+
+[![Duhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=duhanmo)](https://github.com/anuraghazra/github-readme-stats)
