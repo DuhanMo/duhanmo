@@ -8,10 +8,14 @@ I enjoy tackling new challenges, writing clean and efficient code, and exploring
 - **Frameworks**: Spring Boot
 - **Interests**: Clean Architecture, Clean code, Object-Oriented Programming
 
+**Project**
+- **Debooklog**: A community to log and share books you've read. [[link](https://debooklog.vercel.app/)]
+- **QuickNote**: A simple, persistent note-taking plugin for IntelliJ IDEA. [[link](https://github.com/DuhanMo/quicknote)]
+
 **Contact**
-- **Email**: moduhan95@gmail.com
+- **Email**: duhanmo.dev@gmail.com
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/%EB%91%90%ED%95%9C-%EB%AA%A8-155089339/)
-- **Website**: [Tistory Blog](https://duhan-mo.tistory.com/)
+- **Website**: [Personal Blog](https://duhanmo-log.vercel.app/)
 
 **Contributions**
 - [woowacourse/service-apply](https://github.com/woowacourse/service-apply)
