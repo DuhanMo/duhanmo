@@ -9,8 +9,8 @@ I enjoy tackling new challenges, writing clean and efficient code, and exploring
 - **Interests**: Clean Architecture, Clean code, Object-Oriented Programming
 
 **Project**
+- **QuickNote**: A simple, persistent note-taking plugin for Jetbrains IDEA. [[link](https://plugins.jetbrains.com/plugin/26492-quicknote)]
 - **Debooklog**: A community to log and share books you've read. [[link](https://debooklog.vercel.app/)]
-- **QuickNote**: A simple, persistent note-taking plugin for IntelliJ IDEA. [[link](https://plugins.jetbrains.com/plugin/26492-quicknote)]
 
 **Contact**
 - **Email**: duhanmo.dev@gmail.com
