@@ -1,6 +1,6 @@
 # Hello, I’m 모두한! 👋
 
-I’m a Back-end Developer, mainly working with **Kotlin** and **Spring Boot**.
+I’m a Backend Engineer, mainly working with **Kotlin** and **Spring Boot**.
 I enjoy tackling new challenges, writing clean and efficient code, and exploring new technologies.
 
 **Tech Stack & Interests**
