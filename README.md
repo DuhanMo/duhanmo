@@ -10,12 +10,11 @@ I enjoy tackling new challenges, writing clean and efficient code, and exploring
 
 **Project**
 - **QuickNote**: A simple, persistent note-taking plugin for Jetbrains IDEA. [[link](https://plugins.jetbrains.com/plugin/26492-quicknote)]
-- **Debooklog**: A community to log and share books you've read. [[link](https://debooklog.vercel.app/)]
+- **Debooklog**: A community to log and share books you've read. [[link](https://github.com/DuhanMo/debooklog)]
 
 **Contact**
 - **Email**: duhanmo.dev@gmail.com
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/%EB%91%90%ED%95%9C-%EB%AA%A8-155089339/)
-- **Website**: [Personal Blog](https://duhanmo-log.vercel.app/)
 
 **Contributions**
 - [woowacourse/service-apply](https://github.com/woowacourse/service-apply)
