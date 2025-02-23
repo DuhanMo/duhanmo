@@ -19,7 +19,3 @@ I enjoy tackling new challenges, writing clean and efficient code, and exploring
 **Contributions**
 - [woowacourse/service-apply](https://github.com/woowacourse/service-apply)
   - [fix(support): correct typo in equals method #735](https://github.com/woowacourse/service-apply/pull/735)
-
-
-[![Duhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=duhanmo)](https://github.com/anuraghazra/github-readme-stats)
-
